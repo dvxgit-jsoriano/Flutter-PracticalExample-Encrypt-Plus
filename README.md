@@ -1,16 +1,13 @@
 # encrypt_decrypt
 
-A new Flutter project.
+A flutter project / application used to decrypt a string coming from laravel or different platform.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- You should need below:
+- `Data` - the data to be decrypted.
+- `Salt` - the salt or the key from the source of data.
 
-A few resources to get you started if this is your first Flutter project:
+## Using flutter_encrypt_plus
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter Encrypt Plus](https://pub.dev/packages/flutter_encrypt_plus) - Encrypt and Decrypt strings in flutter with pure Dart code.
